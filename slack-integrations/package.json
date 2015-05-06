@@ -1,0 +1,26 @@
+{
+  "author": "Thomas McCabe <t.mccabe@bigspaceship.com>",
+  "name": "slack_integration_api",
+  "description": "API server for Slack intergrations",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "actionhero": "10.1.0",
+    "grunt": "latest",
+    "q": "^1.2.0",
+    "ws": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "should": "latest"
+  },
+  "scripts": {
+    "help": "actionhero help",
+    "start": "actionhero start",
+    "actionhero": "actionhero",
+    "startCluster": "actionhero startCluster",
+    "test": "mocha"
+  }
+}

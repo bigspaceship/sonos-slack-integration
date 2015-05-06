@@ -1,0 +1,226 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:11:56.526Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:11:56.553Z"}
+{"level":"notice","message":"pid: 26608","timestamp":"2015-03-18T03:11:56.720Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:11:56.720Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-03-18T03:11:56.721Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-03-18T03:11:56.721Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:11:56.723Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:11:56.728Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:11:57.137Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:11:57 ***","timestamp":"2015-03-18T03:11:57.137Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:11:57.141Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:17:28.573Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":13,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:17:28.590Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Users/tmccabe/Sites/BSS/slack-integrations/config/servers/web.js) ***\r\n\r\n","timestamp":"2015-03-18T03:24:01.381Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:24:01.381Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-03-18T03:24:01.383Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:24:01.432Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-03-18T03:24:01.383Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:24:01.433Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-03-18T03:24:01.385Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has left the cluster","timestamp":"2015-03-18T03:24:01.437Z"}
+{"level":"notice","message":"pid: 26608","timestamp":"2015-03-18T03:24:01.447Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:24:01.447Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-03-18T03:24:01.447Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-03-18T03:24:01.447Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:24:01.448Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:24:01.448Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:24:01.779Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:24:01 ***","timestamp":"2015-03-18T03:24:01.779Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-03-18T03:24:01.780Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:24:01.782Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:25:51.273Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":11,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:25:51.286Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:25:54.961Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:26:00.748Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":8,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:26:00.758Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Users/tmccabe/Sites/BSS/slack-integrations/config/api.js) ***\r\n\r\n","timestamp":"2015-03-18T03:27:27.890Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:27:27.890Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-03-18T03:27:27.892Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:27:27.919Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-03-18T03:27:27.892Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:27:27.920Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-03-18T03:27:27.893Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has left the cluster","timestamp":"2015-03-18T03:27:27.921Z"}
+{"level":"notice","message":"pid: 26608","timestamp":"2015-03-18T03:27:27.925Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:27:27.925Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:27:27.926Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:27:27.926Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:27:28.154Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:27:28 ***","timestamp":"2015-03-18T03:27:28.154Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-03-18T03:27:28.155Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:27:28.157Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Users/tmccabe/Sites/BSS/slack-integrations/config/routes.js) ***\r\n\r\n","timestamp":"2015-03-18T03:30:36.413Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:30:36.413Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-03-18T03:30:36.414Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:30:36.440Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-03-18T03:30:36.414Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:30:36.440Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-03-18T03:30:36.415Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has left the cluster","timestamp":"2015-03-18T03:30:36.443Z"}
+{"level":"notice","message":"pid: 26608","timestamp":"2015-03-18T03:30:36.454Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:30:36.455Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:30:36.455Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:30:36.455Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:30:36.684Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:30:36 ***","timestamp":"2015-03-18T03:30:36.684Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-03-18T03:30:36.684Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:30:36.688Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Users/tmccabe/Sites/BSS/slack-integrations/config/routes.js) ***\r\n\r\n","timestamp":"2015-03-18T03:31:18.543Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:31:18.543Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-03-18T03:31:18.543Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:31:18.570Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-03-18T03:31:18.543Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:31:18.571Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-03-18T03:31:18.545Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has left the cluster","timestamp":"2015-03-18T03:31:18.572Z"}
+{"level":"notice","message":"pid: 26608","timestamp":"2015-03-18T03:31:18.584Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:31:18.584Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:31:18.585Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:31:18.585Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:31:18.753Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:31:18 ***","timestamp":"2015-03-18T03:31:18.753Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-03-18T03:31:18.754Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:31:18.756Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:36:13.432Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:39:32.776Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:39:32.800Z"}
+{"level":"notice","message":"pid: 26840","timestamp":"2015-03-18T03:39:32.978Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:39:32.978Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:39:32.984Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:39:32.988Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:39:33.384Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:39:33 ***","timestamp":"2015-03-18T03:39:33.384Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:39:33.389Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:39:47.427Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:40:07.456Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:40:22.299Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Users/tmccabe/Sites/BSS/slack-integrations/config/routes.js) ***\r\n\r\n","timestamp":"2015-03-18T03:40:43.818Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:40:43.818Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-03-18T03:40:43.819Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:40:43.859Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-03-18T03:40:43.819Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:40:43.860Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-03-18T03:40:43.821Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has left the cluster","timestamp":"2015-03-18T03:40:43.864Z"}
+{"level":"notice","message":"pid: 26840","timestamp":"2015-03-18T03:40:43.883Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:40:43.884Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:40:43.886Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:40:43.887Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:40:44.141Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:40:44 ***","timestamp":"2015-03-18T03:40:44.141Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-03-18T03:40:44.142Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:40:44.144Z"}
+{"level":"alert","message":"! Failed to load /Users/tmccabe/Sites/BSS/slack-integrations/actions/sono.js","timestamp":"2015-03-18T03:42:19.182Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:42:21.746Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:42:45.429Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:42:45.446Z"}
+{"level":"notice","message":"pid: 26883","timestamp":"2015-03-18T03:42:45.577Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:42:45.578Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:42:45.583Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:42:45.588Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:42:45.958Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:42:45 ***","timestamp":"2015-03-18T03:42:45.959Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:42:45.963Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:42:48.583Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Users/tmccabe/Sites/BSS/slack-integrations/config/api.js) ***\r\n\r\n","timestamp":"2015-03-18T03:43:24.385Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:43:24.385Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-03-18T03:43:24.386Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:43:24.422Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-03-18T03:43:24.386Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:43:24.423Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-03-18T03:43:24.388Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has left the cluster","timestamp":"2015-03-18T03:43:24.424Z"}
+{"level":"notice","message":"pid: 26883","timestamp":"2015-03-18T03:43:24.441Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:43:24.442Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:43:24.444Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:43:24.444Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:43:24.684Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:43:24 ***","timestamp":"2015-03-18T03:43:24.684Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-03-18T03:43:24.684Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:43:24.687Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:43:31.451Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:43:32.973Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T03:44:06.635Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:44:07.696Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:44:07.714Z"}
+{"level":"notice","message":"pid: 26904","timestamp":"2015-03-18T03:44:07.846Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:44:07.846Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:44:07.851Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:44:07.858Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:44:08.225Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:44:08 ***","timestamp":"2015-03-18T03:44:08.226Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:44:08.230Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:44:14.717Z"}
+{"level":"alert","message":"! Failed to load /Users/tmccabe/Sites/BSS/slack-integrations/actions/sono.js","timestamp":"2015-03-18T03:57:53.046Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T03:58:08.628Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T03:58:08.646Z"}
+{"level":"notice","message":"pid: 27021","timestamp":"2015-03-18T03:58:08.778Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T03:58:08.778Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T03:58:08.783Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T03:58:08.789Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T03:58:09.161Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-17 23:58:09 ***","timestamp":"2015-03-18T03:58:09.161Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T03:58:09.165Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T03:58:13.084Z"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Users/tmccabe/Sites/BSS/slack-integrations/config/api.js) ***\r\n\r\n","timestamp":"2015-03-18T04:00:28.861Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T04:00:28.861Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-03-18T04:00:28.862Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T04:00:28.899Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-03-18T04:00:28.862Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T04:00:28.900Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-03-18T04:00:28.864Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has left the cluster","timestamp":"2015-03-18T04:00:28.902Z"}
+{"level":"notice","message":"pid: 27021","timestamp":"2015-03-18T04:00:28.912Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T04:00:28.913Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T04:00:28.914Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T04:00:28.914Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T04:00:29.170Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-18 00:00:29 ***","timestamp":"2015-03-18T04:00:29.170Z"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-03-18T04:00:29.170Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T04:00:29.172Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T04:04:49.767Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T04:04:51.149Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T04:04:51.177Z"}
+{"level":"notice","message":"pid: 27151","timestamp":"2015-03-18T04:04:51.364Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T04:04:51.364Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T04:04:51.367Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T04:04:51.372Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T04:04:51.773Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-18 00:04:51 ***","timestamp":"2015-03-18T04:04:51.773Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T04:04:51.776Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"\"Error: token is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T04:04:58.031Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T04:05:21.069Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T04:05:22.441Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T04:05:22.468Z"}
+{"level":"notice","message":"pid: 27170","timestamp":"2015-03-18T04:05:22.653Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T04:05:22.653Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T04:05:22.657Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T04:05:22.661Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T04:05:23.067Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-18 00:05:23 ***","timestamp":"2015-03-18T04:05:23.067Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T04:05:23.070Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T04:05:24.287Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T04:05:44.390Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T04:10:21.800Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T04:10:23.112Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T04:10:23.140Z"}
+{"level":"notice","message":"pid: 27240","timestamp":"2015-03-18T04:10:23.343Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T04:10:23.343Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T04:10:23.346Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T04:10:23.350Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T04:10:23.767Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-18 00:10:23 ***","timestamp":"2015-03-18T04:10:23.767Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T04:10:23.770Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T04:13:13.629Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T04:13:14.811Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T04:13:14.835Z"}
+{"level":"notice","message":"pid: 27265","timestamp":"2015-03-18T04:13:15.009Z"}
+{"level":"notice","message":"server ID: 192.168.1.5","timestamp":"2015-03-18T04:13:15.009Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T04:13:15.012Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T04:13:15.017Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T04:13:15.407Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-18 00:13:15 ***","timestamp":"2015-03-18T04:13:15.407Z"}
+{"level":"info","message":"actionhero member 192.168.1.5 has joined the cluster","timestamp":"2015-03-18T04:13:15.410Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T04:13:20.684Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T14:55:49.138Z"}

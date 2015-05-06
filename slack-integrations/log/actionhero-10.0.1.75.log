@@ -1,0 +1,10 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-04-15T17:30:49.422Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-04-15T17:30:49.450Z"}
+{"level":"notice","message":"pid: 5932","timestamp":"2015-04-15T17:30:49.582Z"}
+{"level":"notice","message":"server ID: 10.0.1.75","timestamp":"2015-04-15T17:30:49.583Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-04-15T17:30:49.585Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-04-15T17:30:49.590Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-04-15T17:30:49.976Z"}
+{"level":"notice","message":"*** Server Started @ 2015-04-15 13:30:49 ***","timestamp":"2015-04-15T17:30:49.976Z"}
+{"level":"info","message":"actionhero member 10.0.1.75 has joined the cluster","timestamp":"2015-04-15T17:30:49.980Z"}
+{"level":"alert","message":"! Failed to load /Users/tmccabe/Sites/BSS/slack-integrations/actions/sono.js","timestamp":"2015-04-15T17:32:27.762Z"}

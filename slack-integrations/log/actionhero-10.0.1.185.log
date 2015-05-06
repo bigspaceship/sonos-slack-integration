@@ -1,0 +1,91 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-18T14:56:28.092Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-18T14:56:28.117Z"}
+{"level":"notice","message":"pid: 27720","timestamp":"2015-03-18T14:56:28.303Z"}
+{"level":"notice","message":"server ID: 10.0.1.185","timestamp":"2015-03-18T14:56:28.303Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-18T14:56:28.306Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-18T14:56:28.311Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-18T14:56:28.761Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-18 10:56:28 ***","timestamp":"2015-03-18T14:56:28.761Z"}
+{"level":"info","message":"actionhero member 10.0.1.185 has joined the cluster","timestamp":"2015-03-18T14:56:28.764Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T14:56:48.540Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T14:56:50.216Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T14:57:12.783Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-18T17:07:45.940Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-18T19:16:08.371Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-23T22:13:35.968Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-23T22:13:35.997Z"}
+{"level":"notice","message":"pid: 3950","timestamp":"2015-03-23T22:13:36.185Z"}
+{"level":"notice","message":"server ID: 10.0.1.185","timestamp":"2015-03-23T22:13:36.185Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-23T22:13:36.188Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-23T22:13:36.192Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-23T22:13:36.610Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-23 18:13:36 ***","timestamp":"2015-03-23T22:13:36.610Z"}
+{"level":"info","message":"actionhero member 10.0.1.185 has joined the cluster","timestamp":"2015-03-23T22:13:36.612Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:13:53.113Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:13:55.369Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-23T22:14:09.436Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-23T22:14:10.779Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-23T22:14:10.804Z"}
+{"level":"notice","message":"pid: 3958","timestamp":"2015-03-23T22:14:10.978Z"}
+{"level":"notice","message":"server ID: 10.0.1.185","timestamp":"2015-03-23T22:14:10.978Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-23T22:14:10.980Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-23T22:14:10.987Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-23T22:14:11.387Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-23 18:14:11 ***","timestamp":"2015-03-23T22:14:11.387Z"}
+{"level":"info","message":"actionhero member 10.0.1.185 has joined the cluster","timestamp":"2015-03-23T22:14:11.390Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:14:14.474Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:14:15.224Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:14:15.948Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:14:16.731Z"}
+{"level":"alert","message":"! Failed to load /Users/tmccabe/Sites/BSS/slack-integrations/actions/sono.js","timestamp":"2015-03-23T22:14:31.900Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-23T22:14:52.610Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-23T22:14:52.627Z"}
+{"level":"notice","message":"pid: 3971","timestamp":"2015-03-23T22:14:52.763Z"}
+{"level":"notice","message":"server ID: 10.0.1.185","timestamp":"2015-03-23T22:14:52.763Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-23T22:14:52.766Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-23T22:14:52.771Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-23T22:14:53.146Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-23 18:14:53 ***","timestamp":"2015-03-23T22:14:53.147Z"}
+{"level":"info","message":"actionhero member 10.0.1.185 has joined the cluster","timestamp":"2015-03-23T22:14:53.149Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":5,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:14:54.770Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:14:55.268Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:14:56.406Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-23T22:15:03.130Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-23T22:15:04.281Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-23T22:15:04.307Z"}
+{"level":"notice","message":"pid: 3978","timestamp":"2015-03-23T22:15:04.472Z"}
+{"level":"notice","message":"server ID: 10.0.1.185","timestamp":"2015-03-23T22:15:04.472Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-23T22:15:04.475Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-23T22:15:04.480Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-23T22:15:04.870Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-23 18:15:04 ***","timestamp":"2015-03-23T22:15:04.870Z"}
+{"level":"info","message":"actionhero member 10.0.1.185 has joined the cluster","timestamp":"2015-03-23T22:15:04.872Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:15:10.993Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:15:11.928Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-23T22:20:30.427Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-23T22:20:31.744Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-23T22:20:31.771Z"}
+{"level":"notice","message":"pid: 4001","timestamp":"2015-03-23T22:20:31.953Z"}
+{"level":"notice","message":"server ID: 10.0.1.185","timestamp":"2015-03-23T22:20:31.954Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-23T22:20:31.956Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-23T22:20:31.960Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-23T22:20:32.380Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-23 18:20:32 ***","timestamp":"2015-03-23T22:20:32.380Z"}
+{"level":"info","message":"actionhero member 10.0.1.185 has joined the cluster","timestamp":"2015-03-23T22:20:32.383Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:21:21.349Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:21:23.325Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:21:25.369Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-23T22:22:47.215Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-03-23T22:22:48.384Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-03-23T22:22:48.406Z"}
+{"level":"notice","message":"pid: 4009","timestamp":"2015-03-23T22:22:48.587Z"}
+{"level":"notice","message":"server ID: 10.0.1.185","timestamp":"2015-03-23T22:22:48.588Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-03-23T22:22:48.591Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-03-23T22:22:48.596Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-03-23T22:22:49.042Z"}
+{"level":"notice","message":"*** Server Started @ 2015-03-23 18:22:49 ***","timestamp":"2015-03-23T22:22:49.042Z"}
+{"level":"info","message":"actionhero member 10.0.1.185 has joined the cluster","timestamp":"2015-03-23T22:22:49.046Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:22:57.838Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:22:59.016Z"}
+{"to":"127.0.0.1","action":"sono","params":"{\"action\":\"sono\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-03-23T22:43:40.904Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-03-24T17:08:04.405Z"}
